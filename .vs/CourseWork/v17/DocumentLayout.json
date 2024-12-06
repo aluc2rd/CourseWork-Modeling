@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\coursework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\coursework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\coursework\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A03CB3A-15DD-4023-AC11-5695EA4DE801}|CourseWork\\CourseWork.csproj|solutionrelative:coursework\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\MainForm.cs",
+              "RelativeDocumentMoniker": "CourseWork\\MainForm.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\MainForm.cs",
+              "RelativeToolTip": "CourseWork\\MainForm.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAADwv84BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:08:58.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\MainForm.cs",
+              "RelativeDocumentMoniker": "CourseWork\\MainForm.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CourseWork\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:08:55.706Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CourseWork\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 \u0422\u0440\u043E\u043D\u0435\u0432\u0430 \u0412.\u041D. 3-\u0418\u0410\u0418\u0422-113\\\u041F\u0440\u043E\u0435\u043A\u0442\\CourseWork\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CourseWork\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T12:03:05.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
